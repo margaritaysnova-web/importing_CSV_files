@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Pr02Ber.Tests/Pr02Ber.Tests.csproj" />
+  <Project Path="Pr02Ber/Pr02Ber.csproj" />
+</Solution>
